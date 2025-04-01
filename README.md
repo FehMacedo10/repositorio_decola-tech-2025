@@ -1,4 +1,4 @@
-# Decola Tech 2025 🧡
+# Decola Tech 2025
 
 Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp Decola Tech 2025](https://www.dio.me/bootcamp/decola-tech-2025). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp.
 
