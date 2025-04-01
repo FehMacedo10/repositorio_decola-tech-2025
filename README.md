@@ -46,7 +46,7 @@ Este repositório foi desenvolvido como guia de estudos da Bootcamp Decola Tech 
 <table style="border=0">
   <tr>
     <td align="left">
-      <a href="https://github.com/ItaloRochaj">
+      <a href="https://github.com/FehMacedo10">
         <span><b>Italo Rocha</b></span>
       </a>
       <br>
