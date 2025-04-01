@@ -47,7 +47,7 @@ Este repositório foi desenvolvido como guia de estudos da Bootcamp Decola Tech 
   <tr>
     <td align="left">
       <a href="https://github.com/FehMacedo10">
-        <span><b>Italo Rocha</b></span>
+        <span><b>Felipe Macedo</b></span>
       </a>
       <br>
       <span>Full-Stack Development</span>
